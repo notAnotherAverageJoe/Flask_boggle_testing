@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    background: radial-gradient(circle, #08e0e3, #c8c7c7);
+    background-size:cover;
+}
+
+.container {
+    margin: 0 auto;
+    width: 50; 
+}
+#boggle {
+    text-align: center; /* Center the contents horizontally */
+}
+.board {
+    text-align: center;
+    margin: 0 auto;
+
+}
+.board td {
+    font-size:  60px;
+}
